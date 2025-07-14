@@ -16,5 +16,6 @@
 
    Credential for Admin panel :
 
-   Username: admin
-    Password: Test@123
+   Username: admin  
+   
+   Password: Test@123
